@@ -10,7 +10,7 @@ namespace github
     {
         static void Main(string[] args)
         {
-            Console.Write("hello");
+            Console.Write("hello githubbi");
         }
     }
 }
